@@ -1,0 +1,30 @@
+subnets = {
+    "app1" = "subnet-90d900bc"
+    "app2" = "subnet-5154c119"
+    "data1" = "subnet-97d900bb"
+    "data2" = "subnet-da54c192"
+    "web1" = "subnet-f5a77ed9"
+    "web2" = "subnet-f556c3bd"
+}
+
+private_ip_addr = {
+	"web_host_1" = "10.137.96.6"
+	"web_host_2" = "10.137.96.38"
+	"app_host_1_1" = "10.137.96.137"
+	"app_host_1_2" = "10.137.96.134"
+	"app_host_2_1" = "10.137.96.168"
+	"app_host_2_2" = "10.137.96.166"
+	"data_host_1_1" = "10.137.97.6"
+	"data_host_1_2" = "10.137.97.7"
+	"data_host_2_1" = "10.137.97.38"
+	"data_host_2_2" = "10.137.97.39"
+	"zuul_app_1" = "10.137.96.135"
+	"zuul_app_2" = "10.137.96.167"
+	"zuul_data_1" = "10.137.97.8"
+	"zuul_data_2" = "10.137.97.40"
+	"etcd_1" = "10.137.97.9"
+	"etcd_2" = "10.137.97.10"
+	"etcd_3" = "10.137.97.41"
+	"qarm_app" = "10.137.96.136"
+	"qarm_data" = "10.137.97.11"
+}

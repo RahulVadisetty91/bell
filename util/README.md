@@ -1,0 +1,1 @@
+# Terraform Variables for Provisioning EC2 Instances 
